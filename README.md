@@ -1,1 +1,1 @@
-## SQL code for a Google Data Studio customer churn dashboard
+## Customer Churn table in MySQL v5.7
