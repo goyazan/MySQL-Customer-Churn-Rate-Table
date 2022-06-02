@@ -1,1 +1,1 @@
-# MySQL-Customer-Churn-Rate-Table
+## SQL code for a Google Data Studio customer churn dashboard
