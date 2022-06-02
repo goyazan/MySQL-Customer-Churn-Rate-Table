@@ -1,1 +1,2 @@
-## Customer Churn table in MySQL v5.7
+## Customer Churn in MySQL
+SQL queries written in MySQL v5.7 to create a Google Data Studio customer churn dashboard for a subscription-based company.
